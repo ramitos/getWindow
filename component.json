@@ -1,0 +1,16 @@
+{
+  "name": "getWindow",
+  "version": "0.0.1",
+  "description": "jquery based getWindow",
+  "repo": "ramitos/getWindow",
+  "keywords": ["window", "getWindow"],
+  "homepage": "https://github.com/ramitos/getWindow",
+  "license": "MIT",
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "twitter": "@ramitos",
+  "main": "src/getWindow.js",
+  "scripts": ["src/getWindow.js"],
+  "dependencies": {
+    "ramitos/isWindow": "*"
+  }
+}
